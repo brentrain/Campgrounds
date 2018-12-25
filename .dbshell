@@ -1,0 +1,41 @@
+mongo --version
+show dbs
+use cat_app
+show collections
+db.cats.find()
+show dbs
+use yelp_camp
+show collections
+db.campgrounds.find()
+db.campgrounds.drop()
+use vq
+use v1
+db.campgrounds.find()
+show dbs
+use local
+show collections
+show dbs
+use yelp_camp
+show dbs
+show collections
+show dbs
+use yourdb
+show collections
+db users.find()
+db.users.find()
+show dbs
+use yelp_camp
+db.users.find()
+show dbs
+use yelp_camp
+show dbs
+db.getCollectionNames()
+show collections
+show dbs
+use yelp_camp
+db yelp_camp.drop()
+db.yelp_camp.drop()
+show dbs
+use yelp_camp
+db.yelp_camp.drop()
+show yelp_camp
